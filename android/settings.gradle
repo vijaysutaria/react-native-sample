@@ -1,3 +1,0 @@
-rootProject.name = 'IndoorMap'
-
-include ':app'

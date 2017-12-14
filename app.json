@@ -1,4 +1,5 @@
 {
-  "name": "IndoorMap",
-  "displayName": "IndoorMap"
+  "expo": {
+    "sdkVersion": "23.0.0"
+  }
 }
